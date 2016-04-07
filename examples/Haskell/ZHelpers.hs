@@ -6,7 +6,6 @@ import Numeric (showHex)
 
 import Control.Applicative ((<$>))
 import System.Random
-import System.Locale
 import Data.Time
 import Data.ByteString.Char8 (pack, unpack)
 import Data.Char (ord)
